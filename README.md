@@ -82,5 +82,8 @@ This project uses the following open source software:
 - [Entity Framework Core](https://github.com/dotnet/efcore) - For database operations.
 - [Google API Client Libraries](https://github.com/googleapis/google-api-dotnet-client) - For interacting with Google services.
 
+Other libraries:
+- [EasyTdd](https://easytdd.dev/) - Awesome library for fast test driven development.
+
 Thank you to all the contributors who spend time and effort making this project better!
 
